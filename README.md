@@ -27,9 +27,4 @@ Draw the matrix as a graphical output. Start with 2d and experiment with higher 
 4. Same as 3, but now with antialiasing, where the numbers in the resulting matrix represent the pixel transparency.
 
 
-#### Additional resources used
-Algorithms: Question 1
-- Runestone Academy, Chapter 4 and specifically 4.5 'Implementing a Stack in Python', https://runestone.academy/runestone/books/published/pythonds/BasicDS/ImplementingaStackinPython.html 
-- Programiz, Python max(),  https://www.programiz.com/python-programming/methods/built-in/max
-- https://www.edureka.co/blog/stack-in-python/
-- https://www.geeksforgeeks.org/tracking-current-maximum-element-in-a-stack/
+
