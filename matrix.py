@@ -22,3 +22,4 @@ image = draw_line_segment([100, 100], [10, 10], [20, 20])
 #image = np.multiply(image, 128)
 cv2.imwrite('image.jpg',image)
 
+# $ ./matrix.py
